@@ -1,0 +1,1 @@
+let yourArray =["Ciao", 5, true, "freeCodeCamp", "javascript"]; // Modifica questa riga
